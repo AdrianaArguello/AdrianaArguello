@@ -2,7 +2,7 @@
 
 ### I'm a ⚡ Software Engineer ⚡ and ✨ Frontend Developer ✨
 
-![carbon](https://user-images.githubusercontent.com/70598371/189449272-6048dcab-5431-43f9-9c96-571bfb472c0c.png)
+![aboutMe js](https://user-images.githubusercontent.com/70598371/189494401-66031c27-f52d-4f64-a02d-592e44ccc53b.svg)
 
 - 🔭 I’m currently working with angular and firebase
 - 🌱 I’m currently learning flutter
@@ -10,3 +10,4 @@
 - 📫 my linkedin is www.linkedin.com/in/adriana-arguello-ab291b218
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianaArguello&theme=blueberry&show_icons=true)
+
