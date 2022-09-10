@@ -9,5 +9,4 @@
 - 👯 I’m looking to collaborate on mobile projects
 - 📫 my linkedin is www.linkedin.com/in/adriana-arguello-ab291b218
 
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AdrianaArguello&show_icons=true&count_private=true&theme=dark" width="350"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianaArguello&theme=blueberry&show_icons=true)
